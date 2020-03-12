@@ -16,7 +16,7 @@ end
 
 def my_hash_creator(key, value)
   my_hash = Hash.new
-  my_hash = {key: 
+  my_hash = {key 
 end
 
 def read_from_hash(hash, key)
